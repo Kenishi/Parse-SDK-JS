@@ -20,6 +20,7 @@
     "react-native.js",
     "dist/",
     "lib/",
+    "src/",
     "LICENSE",
     "PATENTS",
     "README.md"
