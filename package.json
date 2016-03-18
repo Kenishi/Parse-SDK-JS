@@ -14,17 +14,6 @@
     "url": "https://github.com/ParsePlatform/Parse-SDK-JS"
   },
   "bugs": "https://github.com/ParsePlatform/Parse-SDK-JS/issues",
-  "files": [
-    "index.js",
-    "node.js",
-    "react-native.js",
-    "dist/",
-    "lib/",
-    "src/",
-    "LICENSE",
-    "PATENTS",
-    "README.md"
-  ],
   "browser": {
     "react-native": false
   },
